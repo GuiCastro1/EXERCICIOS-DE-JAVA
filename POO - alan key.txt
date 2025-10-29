@@ -1,0 +1,120 @@
+POO - alan key
+Mouse 
+GUI
+LAN
+SmallTalk
+
+-Características
+-Comportamento
+-Estado atual
+
+Carro
+
+CARACTERÍSTICAS
+
+-Portas
+-Cor
+-Porta
+-Rodas
+-Modelo
+-Marcha
+-Ano de lançamento
+
+COMPORTAMENTO
+
+-Buzinar
+-Andar
+-Ré
+-Parar
+-Fazer Curva
+
+ESTADO ATUAL
+
+-Ligado 
+-Desligado
+-Quebrado
+-Capota
+
+Classe
+
+Molde de um objeto
+
+Características = Atributos
+
+Comportamento = Método
+
+Estado Atual = Estados
+
+classe teclado
+
+características
+
+-Cor 
+-Tamanho
+-Modelo
+-Marca
+-Teclas
+
+Comportamentos
+
+backspace = apagar
+Ctrl + C = Copia
+Ctrl + V = Colar
+Ctrl + Z = Desfazer
+Alt + Tab = Mudar Janela
+
+Estados
+
+Ligado 
+Desligado
+Funcionando
+Quebrado
+Faltando Teclas
+
+
+Teclado 
+Cor = Preto
+Tamanho = 35cm
+Modelo = k120
+Marca = Logitech
+Teclas = True
+
+Métodos
+apagar()
+Copia()
+Colar()
+Desfazer()
+Mudar Janela()
+
+Estado
+
+Semi-Novo
+Funcionando
+Ligado
+
+Classe Divertidamente
+
+Características
+Raiva
+Triste
+Nojo
+Medo
+Alegria
+Vergonha
+Inveja
+Tédio
+Ansiedade
+
+Comportamento
+
+Sorrir()
+Vomito()
+Esconder()
+Insônia()
+Tenso()
+
+Estado atual
+
+True
+False
+
