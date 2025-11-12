@@ -2,84 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8266796b-3594-40b7-a9a9-829723d6a26a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/AluraAulaUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/CelsiusFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/Estudos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/ExPratica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/PrimeiraClasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA-ALURA/src/main/java/Subtracao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/.idea/JAVA_AULA01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioCinco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioDois.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioNove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioOito.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioQuatro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioSeis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioSete.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioTres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/DesafioUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/LacoFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/Media.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/SomaCaloria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/Tabuada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/pacote_aula/Aula.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/pacote_aula/ClasseAula.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/pacote_caneta/Caneta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/src/main/java/pacote_caneta/ModeloCaneta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioCinco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioDois.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioNove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioOito.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioQuatro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioSeis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioSete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/DesafioUm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/LacoFor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/Media.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/SomaCaloria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/Tabuada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/pacote_aula/Aula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/pacote_aula/ClasseAula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/pacote_caneta/Caneta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/DESAFIOS/target/classes/pacote_caneta/ModeloCaneta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/POO/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/DESAFIOS/DesafioUm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/PrimeiroExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/QuatoExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/QuintoExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/SegundoExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/TerceiroExercicio.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/PrimeiroExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/QuatoExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/QuintoExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/SegundoExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/TerceiroExercicio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_AULA01/comandos_java/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +20,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/CTT/Documents/EXERCICIOS-DE-JAVA/JAVA-START-TECH"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CTT/Documents/EXERCICIOS-DE-JAVA/JAVA-START-TECH&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
